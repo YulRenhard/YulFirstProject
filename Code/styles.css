@@ -1,0 +1,35 @@
+.main-header {
+    background-image: url(Foto/Beach\ Sloww.jpg);
+    background-size: cover;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.judul-cerita {
+    text-align: center;
+    margin: 0;
+    font-size: 5em;
+}
+
+.content-section {
+    margin: 1em;
+}
+
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 0 1.5em;
+}
+
+.section-header {
+    text-align: center;
+    font-size: 4em;
+}
+
+.cerita-foto {
+    float: top;
+    height: 300px;
+    width: 300px;
+    margin: 15px;
+    border-radius: 50%;
+}
